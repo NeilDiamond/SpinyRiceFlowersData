@@ -1,0 +1,11 @@
+Package: SpinyRiceFlowersData
+Title: Data for the Spiny Rice Flowers Project
+Version: 0.0.1
+Authors@R: c(
+    person("Megan", "O'Shea",  role = "aut"),
+    person("Neil", "Diamond", email = "neil.diamond@esquant.com.au", role = c("aut","cre")))
+Description: Data generated in the Spiny Rice Flowers project are provided.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
